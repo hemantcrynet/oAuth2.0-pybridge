@@ -1,10 +1,10 @@
 # pyoauthbridge
 
-pyoauthbridge is a official python library to communicate with Tradelab API.
+pyoauthbridge is a official python library to communicate with Hemant API.
 
 ### Prerequisites
 
-* Please refer the document http://primusapi.tradelab.in/webapi/
+* Please refer the document http://primusapi.Hemant.in/webapi/
 * This API uses OAuth 2.0 protocol . You will need following to get started -(Please contact your broker team to get these details)
 ```
 app_id
